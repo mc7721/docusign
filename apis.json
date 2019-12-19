@@ -1,0 +1,81 @@
+{
+    "name": "DocuSign",
+    "description": "Why settle for less? Get the security, mobility, reliability, and ease of use you need to digitally transform your business, with DocuSign eSignature solutions.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/183-docusign.jpg",
+    "tags": [
+        "api provider",
+        "contracts",
+        "digital signatures",
+        "documents",
+        "esignature",
+        "have api",
+        "signatures"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/docusign\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "DocuSign",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/183-docusign.jpg",
+            "humanURL": "http:\/\/www.docusign.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/docusign-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/docusign.net\/restapi\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/docusign.com\/blog"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/docusign"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/docusign"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/www.docusign.co.uk\/developer-center"
+        },
+        {
+            "type": "Email",
+            "url": "emea@docusign.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/docusign"
+        },
+        {
+            "type": "Partners",
+            "url": "https:\/\/www.docusign.com\/partners"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/www.docusign.com\/products-and-pricing"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/DocuSign"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.docusign.com"
+        }
+    ]
+}
